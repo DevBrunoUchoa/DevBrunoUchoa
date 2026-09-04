@@ -1,16 +1,12 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bruno%20Uchoa&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Web&descAlignY=58&descColor=a78bfa" width="100%"/>
-
 </div>
-
----
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-uchoa-641313259/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbt.contato@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://devbrunouchoa.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devbrunouchoa.netlify.app/)
 
 </div>
 
@@ -18,12 +14,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor **Full-Stack** apaixonado por transformar problemas reais em soluções funcionais. Trabalho com desenvolvimento de sistemas desde 2023, com experiência prática em automações, processamento de dados, APIs e aplicações web. Atualmente curso **Ciências da Computação na UFCG** e atuo profissionalmente como programador na área contábil/financeira.
+Sou desenvolvedor **Full-Stack**, atuando profissionalmente desde 2023 com desenvolvimento de sistemas, automação de processos e processamento de dados. No dia a dia, trabalho na construção e manutenção de aplicações web, integração de APIs e automações que reduzem trabalho manual em processos de dados.
 
-- 🚀 Sempre buscando novos desafios e aprendizados
-- 🔭 Trabalhando com Python, Vue.js, automações e processamento de dados
-- 🎓 Graduando em CC pela **UFCG** (2023.2)
-- 🌍 Baseado em **Campina Grande, PB**
+Curso **Ciência da Computação na UFCG**, onde também já atuei como monitor da disciplina de Estruturas de Dados.
+
+- Foco atual: Python, Vue.js, automação de processos e processamento de dados
+- Graduando em Ciência da Computação — UFCG (previsão de conclusão: 2027)
+- Baseado em Campina Grande, PB
 
 ---
 
@@ -55,10 +52,8 @@ Sou desenvolvedor **Full-Stack** apaixonado por transformar problemas reais em s
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevBrunoUchoa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrunoUchoa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
 </div>
 
 <div align="center">
@@ -70,7 +65,5 @@ Sou desenvolvedor **Full-Stack** apaixonado por transformar problemas reais em s
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
 </div>
